@@ -1,6 +1,10 @@
 support version 
     python 3.6.0
 
-orange3-associate code version 
+require to install
 
-numpy version
+- orange3-associate code version 
+[ was include in this git respo ]
+
+- numpy version
+[ must install by your self ]
